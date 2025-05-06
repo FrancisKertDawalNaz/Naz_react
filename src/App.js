@@ -1,8 +1,8 @@
 import './App.css';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import Naz from './naz';
-import Home from './Home'; // You'll need to create this
-import About from './About'; // And this too
+import Home from './Home'; 
+import About from './About';
 
 function App() {
   return (
